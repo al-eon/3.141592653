@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>314</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      color: white;
+      height: 100%;
+      font-family: monospace;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    iframe {
+      width: 80vw;
+      height: 45vw;
+      max-width: 960px;
+      max-height: 540px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <iframe 
+    src="https://www.youtube.com/embed/VIDEO_ID"
+    allowfullscreen>
+  </iframe>
+
+</body>
+</html>
